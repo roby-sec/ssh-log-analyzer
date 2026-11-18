@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+# Never commit real logs
+*.real.log
+auth.log
